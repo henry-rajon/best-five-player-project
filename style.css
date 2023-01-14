@@ -25,3 +25,6 @@
 .main-body {
     margin-right: 22px;
 }
+.selected-section{
+    background-color: #0D0D0D;
+}
